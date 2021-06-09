@@ -1,0 +1,1 @@
+This folder contains scripts to manipulate unix shell
