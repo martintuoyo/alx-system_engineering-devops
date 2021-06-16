@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | grep -v ^d | tail -10
+ls -l --sort=time | head -n 11
